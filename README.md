@@ -1,1 +1,1 @@
-Jest to prosty wyświetlacz 16 na 16 pikseli. Oparty jest na esp8266.
+Jest to prosty wyświetlacz 16 na 16 pikseli. Oparty na esp8266.
