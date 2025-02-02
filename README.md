@@ -4,11 +4,13 @@ Simple but powerful 16x16 matrix led display, which is able to display gifs(10fp
 ## Goal
 ---
 Make capaciple to 30 fps (present 10 fps)
+
 Make access point entrace (with login and pass data to wifi for use or use only access point to controll displa)
+
 React to music
 ## Libraries used
 ---
-Neopixel Adafruit
-JsonDocument
-Wifi
-Webserver
+1. Neopixel Adafruit
+2. JsonDocument
+3. Wifi
+4. Webserver
