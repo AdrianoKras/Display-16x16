@@ -1,0 +1,22 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    width: 320;
+}
+.GridContainer {
+    display: grid;
+    grid-template-columns: repeat(16,1fr);
+    gap: 0px;
+    list-style: none;  
+    border: solid black 0px;
+    
+}
+
+.Box {
+    width: 18px;
+    height:18px;
+    border: 1px solid white;
+    }
+.Items  {
+    width: 320px;
+}

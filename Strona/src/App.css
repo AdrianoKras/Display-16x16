@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Pica';
+  src: url('../src/fonts/IMFellDWPica-Regular.ttf');
+}
+body {
+  font-family: 'Pica',;
+  width: 100%;
+  height: 890px;
+}
+.Display {
+  background-color: #aaedf0;
+  border: solid #8de7eb 5px;
+  border-radius: 10px;
+  height: 520px;
+  
+}
+.Side {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  left: 0;
+  width: 400px;
+  height: 300px;
+}
+.SideRight {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 0;
+  width: 400px;
+}
+.Pixel {
+  margin-top:32px;
+  width: 400px;
+  height: 400px;
+}
+.App {
+  display: flex;
+  align-items: center;
+  height: 890px;
+  width: 1920px;
+  justify-content: center;
+  flex-direction: column;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
